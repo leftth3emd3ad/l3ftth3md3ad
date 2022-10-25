@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://psv4.userapi.com/c532036/u19641161/docs/d1/64ebdc5fd000/eto_baza.gif?extra=LjpBGDafg8LOYMB6Qo9X1nGFTSmnjPY0i7XynAaWgqTklWNjLNjvR0lcsJWJ3wbf76t8XkQJDnPSOUzxiAJ-ggR216p2RqNUne6LDgHrIbuTN76OaidIWJ2AOf9D-Ssr-tW9SaNj2Xo3yqMIVbqnTq0Hxlc" width="100"/>
+ <img src="https://psv4.userapi.com/c532036/u19641161/docs/d1/6c5cc4ba58d4/eto_baza.gif?extra=yAkpQbFXp2QcsOO4rBu65XXlCiVtGYpsiIREJ2_Yz1xU7Pxk2Ewy07AiMuCM_O8UTdKWNNpFvkoy5zx9Aft8_rnem3YkZsBZszulyROKE-YCXhz08ba-3S_dkot2KTwqVsvNbO_32BkmXTbm5JzcXULOtA" width="100"/>
 </div>
 
 <div id="badges" align="center">
