@@ -43,3 +43,6 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leftth3emd3ad&theme=radical&hide_border=true&locale=ru&date_format=M%20j%5B%2C%20Y%5D&background=443EFF)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leftth3emd3ad)](https://github.com/leftth3emd3ad/github-readme-stats)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=leftth3emd3ad)](https://github.com/leftth3emd3ad/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leftth3emd3ad&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leftth3emd3ad&theme=solarized_dark)
