@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vk Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 
