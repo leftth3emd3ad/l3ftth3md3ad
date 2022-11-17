@@ -6,7 +6,7 @@
   <a href="https://vk.com/id760574586">
     <img src="https://img.shields.io/badge/Вконтакте-blue?style=for-the-badge&logo=VK&logoColor=white" alt="Vk Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://t.me/fuxkyourlif3">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
